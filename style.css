@@ -1,0 +1,36 @@
+header{
+background-color:#F0F0F0 ;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+padding: 10px;
+}
+main {
+position: relative;
+    top: 150px;
+}
+article{
+    width: 60%;
+    position: absolute;
+    Margin: 20px auto;
+    background-color: #E0E0E0 ;
+    padding: 15px;
+}
+aside{
+Width: 30%;
+ position:absolute ;
+ right: 0;
+Margin: 20px auto;
+Background-color: #D0D0D0;
+Padding: 15px;
+}
+footer{
+    Background-color: #C0C0C0;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px; 
+      
+}
